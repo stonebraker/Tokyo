@@ -2,4 +2,4 @@
 - Build very useful shelf
 - Put away the things
 X Buy eggs (Jason)
-- Buy bagels
+X Buy bagels (Jason)
