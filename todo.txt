@@ -5,3 +5,4 @@ X Buy eggs (Jason)
 X Buy bagels (Jason)
 - Clean off porch
 - Unload dishwasher
+- Load dishwasher
