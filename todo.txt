@@ -1,2 +1,2 @@
 - Watch Harry Potter
-- Build a dumb shelf thing
+- Build very useful shelf
