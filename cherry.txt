@@ -2,3 +2,4 @@ pick main
 pick feature 1.
 pick 2 on feature
 Pick 1 on cherryfile branch.
+Picking another off the branch.
