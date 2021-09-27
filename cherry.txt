@@ -1,1 +1,2 @@
 pick feature 1.
+pick 2 on feature
