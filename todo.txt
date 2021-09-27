@@ -1,8 +1,8 @@
 - Watch Harry Potter
-- Build very useful shelf
-- Put away the things
+X Build very useful shelf (Jason)
+X Put away the things (Jason)
 X Buy eggs (Jason)
 X Buy bagels (Jason)
-- Clean off porch
-- Unload dishwasher
+X Clean off porch (Amy)
+X Unload dishwasher (Amy)
 - Load dishwasher
